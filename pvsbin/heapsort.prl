@@ -1,0 +1,9 @@
+%-------------------------------------------
+% @formula: sink_length 
+% @theory: heapsort
+% @pvsfile: heapsort.pvs
+% @status: ❄️ unchecked
+%-------------------------------------------
+sink_length : PROOF
+(then (grind)(postpone))
+QED sink_length
